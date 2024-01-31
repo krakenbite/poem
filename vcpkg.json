@@ -1,0 +1,8 @@
+{
+  "name" : "poem",
+  "version" : "0.0.0",
+  "dependencies" : [ {
+    "name" : "gtest",
+    "version>=" : "1.14.0"
+  }]
+}
